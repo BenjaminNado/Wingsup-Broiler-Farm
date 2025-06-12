@@ -41,8 +41,8 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p>📍 Location: [Your District, Uganda]</p>
-    <p>📞 Call/WhatsApp: +256-XXX-XXXXXX</p>
-    <p>📧 Email: wingsuppoultry@example.com</p>
+    <p>📞 Call/WhatsApp: +256708840502</p>
+    <p>📧 Email: wingsupbroilerfarm@gmail.com</p>
   </section>
 
   <footer>
